@@ -1,0 +1,1076 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'es' Physical Memory: 8076 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ANGEL/ULSA21-2D-PROJECT
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64384
+Successfully changed project path to: C:/Users/ANGEL/ULSA21-2D-PROJECT
+C:/Users/ANGEL/ULSA21-2D-PROJECT
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 103.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ANGEL/ULSA21-2D-PROJECT/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   
+    VRAM:     2020 MB
+    Driver:   23.21.13.8873
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002270 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 103.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.312 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002798 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 106.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.772 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.8 MB.
+System memory in use after: 190.3 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 4540.
+Total: 6.670800 ms (FindLiveObjects: 0.423800 ms CreateObjectMapping: 0.214300 ms MarkObjects: 2.929000 ms  DeleteObjects: 3.101100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprite
+  artifactKey: Guid(e4646b2027341044a869035df73340e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite using Guid(e4646b2027341044a869035df73340e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7979b2bc41bba555ce85041e732965ca') in 0.015407 seconds
+  Import took 0.025012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 489.240282 seconds.
+  path: Assets/Sprite/Run.png
+  artifactKey: Guid(78ac4f2140ed1f6479d6cd8a72211f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Run.png using Guid(78ac4f2140ed1f6479d6cd8a72211f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a931b1d2c824161f1ecda675268d6c') in 0.177667 seconds
+  Import took 0.187215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Sprite/Jump.png
+  artifactKey: Guid(9ccdf931196f4474fb095db36206fe02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Jump.png using Guid(9ccdf931196f4474fb095db36206fe02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1bf8be1543e13d49e1c8655f046b9b') in 0.029938 seconds
+  Import took 0.041185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Sprite/Action.png
+  artifactKey: Guid(ef71798607612ac489280821d30188e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Action.png using Guid(ef71798607612ac489280821d30188e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '945ae8d40fe3e87b0a5a45a0b68a0576') in 0.025654 seconds
+  Import took 0.035751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Sprite/Idle.png
+  artifactKey: Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Idle.png using Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e3fde7e3d105f175029fdee26a6db8') in 0.029239 seconds
+  Import took 0.040794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.597473 seconds.
+  path: Assets/Sprite/Character
+  artifactKey: Guid(9da5cf20b2324774a8c01c35af504dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character using Guid(9da5cf20b2324774a8c01c35af504dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b821f1b23c2015b7797971561239d1a') in 0.012845 seconds
+  Import took 0.023740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.905500 seconds.
+  path: Assets/Sprite/Character/Idle.png
+  artifactKey: Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/Idle.png using Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e4a610b61d4023a75bf804960de155') in 0.033779 seconds
+  Import took 0.047332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007898 seconds.
+  path: Assets/Sprite/Character/Idle.png
+  artifactKey: Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/Idle.png using Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e4a610b61d4023a75bf804960de155') in 0.023553 seconds
+  Import took 0.032549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.922762 seconds.
+  path: Assets/Sprite/Character/Idle.png
+  artifactKey: Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/Idle.png using Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f717814f0439cd7d0a8fbd4607454b2') in 0.098213 seconds
+  Import took 0.108344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 372.898418 seconds.
+  path: Assets/Sprite/Character/Idle.png
+  artifactKey: Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/Idle.png using Guid(85b46122318615f42a45054d01b2a855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '370ba585b7be1b6093bb9bbcdd362483') in 0.106731 seconds
+  Import took 0.117802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.662287 seconds.
+  path: Assets/Sprite/Character/C1
+  artifactKey: Guid(4a679ce5553871f49920d691bffa9d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C1 using Guid(4a679ce5553871f49920d691bffa9d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6063d43b00393dcd38294d90fac975') in 0.012492 seconds
+  Import took 0.024460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.146507 seconds.
+  path: Assets/Sprite/Character/C2
+  artifactKey: Guid(3c2e151738b037841b53ef58304a1848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2 using Guid(3c2e151738b037841b53ef58304a1848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b98a23ed485aa23a28b61436417385') in 0.012495 seconds
+  Import took 0.023261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.247890 seconds.
+  path: Assets/Sprite/Character/C2/SpriteGG (5).jpg
+  artifactKey: Guid(173b5d7eb2d4a6742b750401df9ba8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/SpriteGG (5).jpg using Guid(173b5d7eb2d4a6742b750401df9ba8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895c5bae0a682e43cfd118491fdbee9d') in 0.166367 seconds
+  Import took 0.178130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Sprite/Character/C2/SpriteGG (2).jpg
+  artifactKey: Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/SpriteGG (2).jpg using Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b3987127e7f9545b533fd3ddd9eae5') in 0.025143 seconds
+  Import took 0.036637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Sprite/Character/C2/SpriteGG (4).jpg
+  artifactKey: Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/SpriteGG (4).jpg using Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c51f6cc88d69302bd4566836ccd37a') in 0.028182 seconds
+  Import took 0.040506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Sprite/Character/C2/SpriteGG (3).jpg
+  artifactKey: Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/SpriteGG (3).jpg using Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a78710460c9de1cece55c58b7e36ae') in 0.026201 seconds
+  Import took 0.036977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.114495 seconds.
+  path: Assets/Sprite/Character/C2/Idle.jpg
+  artifactKey: Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Idle.jpg using Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19462ab922e973761f4563db187aa0e8') in 0.011484 seconds
+  Import took 0.023246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008308 seconds.
+  path: Assets/Sprite/Character/C2/Idle.jpg
+  artifactKey: Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Idle.jpg using Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19462ab922e973761f4563db187aa0e8') in 0.020729 seconds
+  Import took 0.031774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.485986 seconds.
+  path: Assets/Sprite/Character/C2/Jump.jpg
+  artifactKey: Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Jump.jpg using Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d51645519d94ea490136084ee645f44') in 0.014697 seconds
+  Import took 0.026713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004668 seconds.
+  path: Assets/Sprite/Character/C2/Jump.jpg
+  artifactKey: Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Jump.jpg using Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d51645519d94ea490136084ee645f44') in 0.020506 seconds
+  Import took 0.029287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.068745 seconds.
+  path: Assets/Sprite/Character/C2/Run.jpg
+  artifactKey: Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Run.jpg using Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60cadd6bad1ca3f18c92bc14e51f10d1') in 0.021215 seconds
+  Import took 0.032227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002012 seconds.
+  path: Assets/Sprite/Character/C2/Run.jpg
+  artifactKey: Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Run.jpg using Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60cadd6bad1ca3f18c92bc14e51f10d1') in 0.019706 seconds
+  Import took 0.031111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.156292 seconds.
+  path: Assets/Sprite/Character/C2/Action.jpg
+  artifactKey: Guid(173b5d7eb2d4a6742b750401df9ba8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Action.jpg using Guid(173b5d7eb2d4a6742b750401df9ba8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452491e719c30f5d9c9e135a3a1950ff') in 0.019525 seconds
+  Import took 0.030514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003964 seconds.
+  path: Assets/Sprite/Character/C2/Action.jpg
+  artifactKey: Guid(173b5d7eb2d4a6742b750401df9ba8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Action.jpg using Guid(173b5d7eb2d4a6742b750401df9ba8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452491e719c30f5d9c9e135a3a1950ff') in 0.020852 seconds
+  Import took 0.033314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.251663 seconds.
+  path: Assets/Sprite/Character/C2/Idle.jpg
+  artifactKey: Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Idle.jpg using Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bbe2cfeb155484cfd4cd5c27b1e4c50') in 0.060118 seconds
+  Import took 0.102255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 309.375785 seconds.
+  path: Assets/Sprite/Character/C2/Idle.jpg
+  artifactKey: Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Idle.jpg using Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2bf2f9c8872cca597f394b236d725ea') in 0.085366 seconds
+  Import took 0.097127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.053583 seconds.
+  path: Assets/Sprite/Character/C2/Idle.jpg
+  artifactKey: Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Idle.jpg using Guid(0c1ee3c7a20098b4d85012119ee61de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c141244c6d5e90fb6106e7d538abe44a') in 0.040099 seconds
+  Import took 0.052072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.425486 seconds.
+  path: Assets/Sprite/Character/C2/Jump.jpg
+  artifactKey: Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Jump.jpg using Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820cf1332222a877f245e75132d14dde') in 0.022108 seconds
+  Import took 0.033376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007244 seconds.
+  path: Assets/Sprite/Character/C2/Jump.jpg
+  artifactKey: Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Jump.jpg using Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820cf1332222a877f245e75132d14dde') in 0.011959 seconds
+  Import took 0.022360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.358213 seconds.
+  path: Assets/Sprite/Character/C2/Jump.jpg
+  artifactKey: Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Jump.jpg using Guid(f50acc15046308f40a96a5aa096111a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b92c938dfbd298b1788117d70ebe375') in 0.077401 seconds
+  Import took 0.088159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.570423 seconds.
+  path: Assets/Sprite/Character/C2/Run.jpg
+  artifactKey: Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Run.jpg using Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56956a57d5659b07a50ef9556c71c9f1') in 0.030504 seconds
+  Import took 0.041600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033581 seconds.
+  path: Assets/Sprite/Character/C2/Run.jpg
+  artifactKey: Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Run.jpg using Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56956a57d5659b07a50ef9556c71c9f1') in 0.034421 seconds
+  Import took 0.051399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.887539 seconds.
+  path: Assets/Sprite/Character/C2/Run.jpg
+  artifactKey: Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/Character/C2/Run.jpg using Guid(697e22b2727f9c24e9200f5d46b4cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f670a674bebac1756a36f22b290c7f85') in 0.089851 seconds
+  Import took 0.097791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.777542 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.012193 seconds
+  Import took 0.027299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001060 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.006192 seconds
+  Import took 0.017633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.179885 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(a9776f64097812d418c6023513ccf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(a9776f64097812d418c6023513ccf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '239634816669e953c348fcf53e88e112') in 0.012223 seconds
+  Import took 0.029639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014816 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(a9776f64097812d418c6023513ccf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(a9776f64097812d418c6023513ccf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '239634816669e953c348fcf53e88e112') in 0.005836 seconds
+  Import took 0.016019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.297763 seconds.
+  path: Assets/Animaton
+  artifactKey: Guid(a9776f64097812d418c6023513ccf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaton using Guid(a9776f64097812d418c6023513ccf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac39aa97bd14e67053d0e2edff72c20b') in 0.015518 seconds
+  Import took 0.025247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.897488 seconds.
+  path: Assets/Animaton/Character2D
+  artifactKey: Guid(d98ee1067f757304c811dd3f9cc2ae34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaton/Character2D using Guid(d98ee1067f757304c811dd3f9cc2ae34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab3a4da55b76a314249c36715837eaff') in 0.014209 seconds
+  Import took 0.024541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.734072 seconds.
+  path: Assets/Animation
+  artifactKey: Guid(a9776f64097812d418c6023513ccf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation using Guid(a9776f64097812d418c6023513ccf5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e00647829da2bb103489d88ab7cd8b') in 0.012789 seconds
+  Import took 0.024042 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002290 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.400 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3866 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.4 MB.
+System memory in use after: 184.0 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4568.
+Total: 9.214300 ms (FindLiveObjects: 0.724700 ms CreateObjectMapping: 0.514600 ms MarkObjects: 3.776800 ms  DeleteObjects: 4.195900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.461 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3866 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.5 MB.
+System memory in use after: 184.1 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4571.
+Total: 9.097000 ms (FindLiveObjects: 0.511400 ms CreateObjectMapping: 0.816800 ms MarkObjects: 3.725000 ms  DeleteObjects: 4.041800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 408.335350 seconds.
+  path: Assets/Animation/Character2D/Character2D.controller
+  artifactKey: Guid(acbd50fafefd5dd45bd9c55f55ff052f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character2D/Character2D.controller using Guid(acbd50fafefd5dd45bd9c55f55ff052f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeed50e8aacd836e3d0f0efad3e6cf57') in 0.035755 seconds
+  Import took 0.046852 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002183 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.376 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3866 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.6 MB.
+System memory in use after: 184.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4574.
+Total: 8.418300 ms (FindLiveObjects: 0.687000 ms CreateObjectMapping: 0.417600 ms MarkObjects: 3.745900 ms  DeleteObjects: 3.565800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.477 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3866 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.5 MB.
+System memory in use after: 184.1 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4577.
+Total: 9.091600 ms (FindLiveObjects: 0.487600 ms CreateObjectMapping: 0.758900 ms MarkObjects: 3.897400 ms  DeleteObjects: 3.945800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 340.678470 seconds.
+  path: Assets/Animations/CinematicsTimeline.playable
+  artifactKey: Guid(5a54d61bc58f43341aa47f398b54ed14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/CinematicsTimeline.playable using Guid(5a54d61bc58f43341aa47f398b54ed14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a766ff47aa4674d9572fc15ae27f010') in 0.046081 seconds
+  Import took 0.057533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Animations/ScreenshotsTimeline.playable
+  artifactKey: Guid(a68e4ad89ad65c04981239cc0044a707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ScreenshotsTimeline.playable using Guid(a68e4ad89ad65c04981239cc0044a707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11085417c2bba12fefc7ffa8d2b8c81e') in 0.018301 seconds
+  Import took 0.028910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.563986 seconds.
+  path: Assets/Animation/Character2D/Jump.anim
+  artifactKey: Guid(eb11eda2e35689649abab451b4b13978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character2D/Jump.anim using Guid(eb11eda2e35689649abab451b4b13978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65849cfee680b5f4258dbc4fa9148547') in 0.006565 seconds
+  Import took 0.015752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002440 seconds.
+  path: Assets/Animation/Character2D/Jump.anim
+  artifactKey: Guid(eb11eda2e35689649abab451b4b13978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character2D/Jump.anim using Guid(eb11eda2e35689649abab451b4b13978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65849cfee680b5f4258dbc4fa9148547') in 0.005545 seconds
+  Import took 0.015556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.191009 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(4444c11e4fdc88d4495ba78664f275fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(4444c11e4fdc88d4495ba78664f275fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33bd9665fd704eb9cb1369143ac2b6ea') in 0.020765 seconds
+  Import took 0.030731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001367 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(4444c11e4fdc88d4495ba78664f275fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(4444c11e4fdc88d4495ba78664f275fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33bd9665fd704eb9cb1369143ac2b6ea') in 0.005308 seconds
+  Import took 0.016310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 195.330975 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(4719b0884aa2ce045bd0bc265ca981a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(4719b0884aa2ce045bd0bc265ca981a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ccb69cb2defeffe650efddc5b6ad77') in 0.018878 seconds
+  Import took 0.036816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.149675 seconds.
+  path: Assets/Scripts/Character2D.cs
+  artifactKey: Guid(0615747fa017b5047b5e9219dbb77a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Character2D.cs using Guid(0615747fa017b5047b5e9219dbb77a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694c8af0b534439feec0f78239342e6c') in 0.012042 seconds
+  Import took 0.026280 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002349 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.482 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.6 MB.
+System memory in use after: 184.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4581.
+Total: 12.026800 ms (FindLiveObjects: 0.999100 ms CreateObjectMapping: 1.788300 ms MarkObjects: 3.459300 ms  DeleteObjects: 5.777300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 453.382641 seconds.
+  path: Assets/Scripts/Character2D.cs
+  artifactKey: Guid(0615747fa017b5047b5e9219dbb77a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Character2D.cs using Guid(0615747fa017b5047b5e9219dbb77a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493dd18fa20c8773f29ec29ae7bf2595') in 0.020244 seconds
+  Import took 0.044191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003269 seconds.
+  path: Assets/Scripts/Character2D.cs
+  artifactKey: Guid(0615747fa017b5047b5e9219dbb77a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Character2D.cs using Guid(0615747fa017b5047b5e9219dbb77a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493dd18fa20c8773f29ec29ae7bf2595') in 0.005189 seconds
+  Import took 0.017381 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.610 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4584.
+Total: 8.452100 ms (FindLiveObjects: 0.577000 ms CreateObjectMapping: 0.315000 ms MarkObjects: 3.747100 ms  DeleteObjects: 3.810700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003304 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.324 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4587.
+Total: 11.832800 ms (FindLiveObjects: 0.873200 ms CreateObjectMapping: 0.564400 ms MarkObjects: 4.761900 ms  DeleteObjects: 5.630500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002192 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.551 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4590.
+Total: 9.687300 ms (FindLiveObjects: 0.829600 ms CreateObjectMapping: 0.392500 ms MarkObjects: 4.397300 ms  DeleteObjects: 4.066100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002331 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.392 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4593.
+Total: 7.870300 ms (FindLiveObjects: 0.523000 ms CreateObjectMapping: 0.351200 ms MarkObjects: 3.053000 ms  DeleteObjects: 3.941200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002218 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.520 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4596.
+Total: 7.647700 ms (FindLiveObjects: 0.752000 ms CreateObjectMapping: 0.371300 ms MarkObjects: 2.610700 ms  DeleteObjects: 3.912400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003219 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.583 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4599.
+Total: 8.119100 ms (FindLiveObjects: 0.480100 ms CreateObjectMapping: 0.382100 ms MarkObjects: 2.707800 ms  DeleteObjects: 4.547200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002288 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.410 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4602.
+Total: 7.497700 ms (FindLiveObjects: 0.642500 ms CreateObjectMapping: 0.383200 ms MarkObjects: 2.596600 ms  DeleteObjects: 3.873600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.501 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4605.
+Total: 8.894100 ms (FindLiveObjects: 0.491900 ms CreateObjectMapping: 0.396000 ms MarkObjects: 2.899200 ms  DeleteObjects: 5.104800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002484 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.513 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4608.
+Total: 23.254000 ms (FindLiveObjects: 2.971900 ms CreateObjectMapping: 1.043000 ms MarkObjects: 11.864400 ms  DeleteObjects: 7.370000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002393 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.114 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.8 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4611.
+Total: 11.365700 ms (FindLiveObjects: 0.520400 ms CreateObjectMapping: 0.443700 ms MarkObjects: 3.611900 ms  DeleteObjects: 6.786700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.567 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.8 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4614.
+Total: 12.646100 ms (FindLiveObjects: 1.859500 ms CreateObjectMapping: 0.672800 ms MarkObjects: 4.209000 ms  DeleteObjects: 5.902900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1616.960426 seconds.
+  path: Assets/Animation/Character2D/Character2D.controller
+  artifactKey: Guid(acbd50fafefd5dd45bd9c55f55ff052f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character2D/Character2D.controller using Guid(acbd50fafefd5dd45bd9c55f55ff052f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3d15005fc0ef744b57a58b702c1a2e1') in 0.030367 seconds
+  Import took 0.040734 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002634 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.553 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.8 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4617.
+Total: 8.261700 ms (FindLiveObjects: 0.562600 ms CreateObjectMapping: 0.482500 ms MarkObjects: 3.164200 ms  DeleteObjects: 4.050500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002798 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.308 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.8 MB.
+System memory in use after: 184.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4620.
+Total: 11.081200 ms (FindLiveObjects: 0.584100 ms CreateObjectMapping: 0.387200 ms MarkObjects: 4.041800 ms  DeleteObjects: 6.066300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 317.500454 seconds.
+  path: Assets/Animation/Character2D/Idle.anim
+  artifactKey: Guid(27e8804f941b0954ca150f06c2419b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character2D/Idle.anim using Guid(27e8804f941b0954ca150f06c2419b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32743919cd17abe84bf9b2ae19927d54') in 0.019406 seconds
+  Import took 0.030387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.496025 seconds.
+  path: Assets/Animation/Character2D/Jump.anim
+  artifactKey: Guid(eb11eda2e35689649abab451b4b13978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character2D/Jump.anim using Guid(eb11eda2e35689649abab451b4b13978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf78f790fa93fd250d9bc0cb6e5c393') in 0.006512 seconds
+  Import took 0.018981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.755390 seconds.
+  path: Assets/Animation/Character2D/Run.anim
+  artifactKey: Guid(788ef54586a2b964fbe390a422c4d4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character2D/Run.anim using Guid(788ef54586a2b964fbe390a422c4d4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0fcf747066b49d124fef5f852c73219') in 0.013477 seconds
+  Import took 0.025460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.656615 seconds.
+  path: Assets/Animation/Character2D/Walk.anim
+  artifactKey: Guid(7d8068b744a6ab849b5aa333b65a32d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Character2D/Walk.anim using Guid(7d8068b744a6ab849b5aa333b65a32d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce78592f5fba1b89f4bbcf55f426ea6') in 0.013067 seconds
+  Import took 0.024494 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002231 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.413 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.8 MB.
+System memory in use after: 184.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4623.
+Total: 13.646900 ms (FindLiveObjects: 1.325500 ms CreateObjectMapping: 0.677500 ms MarkObjects: 5.572800 ms  DeleteObjects: 6.067700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003272 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.389 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4626.
+Total: 13.457600 ms (FindLiveObjects: 1.390800 ms CreateObjectMapping: 0.701300 ms MarkObjects: 5.462400 ms  DeleteObjects: 5.899600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002329 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.380 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 184.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4629.
+Total: 11.400100 ms (FindLiveObjects: 0.798200 ms CreateObjectMapping: 0.540800 ms MarkObjects: 4.692300 ms  DeleteObjects: 5.365600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002222 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.496 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.8 MB.
+System memory in use after: 184.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4632.
+Total: 12.413000 ms (FindLiveObjects: 1.022100 ms CreateObjectMapping: 0.609400 ms MarkObjects: 3.782600 ms  DeleteObjects: 6.996200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.409 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3867 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.8 MB.
+System memory in use after: 184.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4635.
+Total: 17.141600 ms (FindLiveObjects: 2.148000 ms CreateObjectMapping: 1.250400 ms MarkObjects: 6.516600 ms  DeleteObjects: 7.220400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
